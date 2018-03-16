@@ -1,8 +1,0 @@
-This is file 1.- Hello
-Hello all.
-Hello from hub.
-Hello2 from hub.
-
-
-Hello from bucket.
-Hello2 from bucket.
