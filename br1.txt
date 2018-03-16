@@ -1,3 +1,0 @@
-This file is on branch br1.
-Hello from local br1 branch.
-
