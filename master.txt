@@ -1,4 +1,5 @@
 Maybe conflict.
+It should be now.
 This file is on branch master.
 Hello from eclipse.
 Hello from github.
