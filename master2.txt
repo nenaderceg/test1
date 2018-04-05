@@ -1,3 +1,4 @@
+Stash change.
 Hello world
 Hello back from github.
 Hello from n1.
@@ -8,3 +9,4 @@ Hello again from n1.
 This will be conflict for sure.
 If this is not conflict 
 I don't know what is
+Hello from Jhon, done on featureA

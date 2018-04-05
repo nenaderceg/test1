@@ -1,4 +1,6 @@
 again hello
+Here again-Someone made a change.
+Someone made a change.Someone made a change.
 Lets see now.
 Maybe conflict.
 It should be now.
@@ -21,3 +23,8 @@ Now.
 It doesn't work.
 Hey there again.
 Hey Judy.
+Jessica made a change.
+Feature B from Jessica.
+Addition to feature B from Jessica.
+Feature Bee done by Jose.
+
